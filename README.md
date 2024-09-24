@@ -1,6 +1,6 @@
-## Hallo alle zusammen 👋
+## Hallo, alle zusammen 👋
 
-- 🔭 Ich bin **Alina Klochai**, IT-Fachmann mit Schwerpunkt auf Backend-Entwicklung und Anwendungssicherheit mit Erfahrung in Project Manager - Bereih. Arbeitete mit Java, Spring, PostgreSQL und vielen anderen Technologien..
+- 🔭 Ich bin **Alina Klochai**, IT-Fachmann mit Schwerpunkt auf Backend-Entwicklung und Anwendungssicherheit mit Erfahrung in Project Manager - Bereih. Arbeitete mit Java, Spring, PostgreSQL und vielen anderen Technologien.
 
 ### 🌟 Schlüsselqualifikationen:
 - Programmiersprachen: **Java, JavaScript**
@@ -9,6 +9,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GIT](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg)
 
 ### 🚀 Meine aktuellen Projekte:
 - **[Blb-Bundesland Blog](https://blblog.top)** – Funktionen der Plattform:
