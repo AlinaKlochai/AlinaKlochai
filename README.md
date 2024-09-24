@@ -43,3 +43,5 @@
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlinaKlochai&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaKlochai&layout=compact&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=AlinaKlochai&theme=react-dark)
