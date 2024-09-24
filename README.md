@@ -45,4 +45,3 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlinaKlochai&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaKlochai&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
-[![GitHub Skyline](https://skyline.github.com/AlinaKlochai/2023)](https://skyline.github.com/AlinaKlochai/2023)
