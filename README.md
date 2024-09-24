@@ -34,7 +34,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### 🚀 Meine aktuellen Projekte:
-- **[Blb-Bundesland Blog](https://blblog.top)** – Full stack Web-Application mit verschidene Funktionen.
+- **[Blb-Bundesland Blog](https://blblog.top)** – Projekt - „BLB - Bundesland Blog - Informationsportal“ ist ein informatives Online-Portal für Nachrichten und Informationen aus den Bundesländern.
 - **[To Do List](https://github.com/AlinaKlochai/toDoList_project)** – ist ein Projekt, mit dem Sie den Überblick über Ihre Aufgaben behalten. Der Benutzer kann eine neue Aufgabe hinzufügen (sie erhält automatisch den Status FAILED), und er kann jede der hinzugefügten Aufgaben als DONE markieren und wenn die Aufgabe irrelevant geworden ist, kann er sie löschen.
 
 ### 📫 Kontakt mit mir:
