@@ -45,3 +45,4 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlinaKlochai&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaKlochai&layout=compact&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+![Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
