@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo alle zusammen 👋
 
 - 🔭 Ich bin **Alina Klochai**, IT-Fachmann mit Schwerpunkt auf Backend-Entwicklung und Anwendungssicherheit mit Erfahrung in Project Manager - Bereih. Arbeitete mit Java, Spring, PostgreSQL und vielen anderen Technologien..
 
