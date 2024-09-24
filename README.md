@@ -6,6 +6,9 @@
 - Programmiersprachen: **Java, JavaScript**
 - Technologien: **Spring Boot, PostgreSQL, Docker**
 - DevOps-Werkzeuge: **Git, CI/CD, Docker**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🚀 Meine aktuellen Projekte:
 - **[Blb-Bundesland Blog](https://blblog.top)** – Funktionen der Plattform:
