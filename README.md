@@ -1,6 +1,6 @@
 ## Hallo, alle zusammen 👋
 
-- 🔭 Ich bin ein Backend Entwickler aus Ilmenau mit Erfahrung im Project Management.
+- 🔭 Ich bin ein Backend Entwicklerin aus Ilmenau mit Erfahrung im Project Management.
 
 ### 🌟Sprachen und Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
